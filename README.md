@@ -11,4 +11,5 @@ A simple cross-platform file manager written in C.
 
 ## Build
 ```bash
-gcc heyfiles.c -o heyfiles
+gcc main.c -o heyfiles
+
